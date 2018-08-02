@@ -1,0 +1,49 @@
+body, html {
+    height: 100%;
+}
+
+
+.bg-image {
+    background-image: url("Radiator_Springs_sign_updated.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+}
+
+.title {
+    height: 220px;
+    position: fixed;
+    left: 15px;
+    top: 20px;
+}
+
+.game-area {
+    position: fixed;
+    top: 255px;
+    left: 55px;
+}
+
+.hangman-area {
+    position: relative;
+    /* below number should be tweaked to be relative to top of page */
+    top: 0.6570972887%;
+    left: 5px;
+}
+
+#word-area {
+    background-color: aliceblue;
+    font-size: 200%;
+}
+
+/* Plotly CSS */
+
+/* #myDiv {
+    position: relative;
+    
+} */
+/* .svg-container {
+    background: rgba(255, 255, 225, 0);
+    width: 420;
+    height: 270;
+} */

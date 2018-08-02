@@ -1,0 +1,11 @@
+{
+  "name": "floyds-hangman",
+  "version": "1.0.0",
+  "description": "A Cars Themed Hangman Game",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Floyd Corbin",
+  "license": "ISC"
+}
